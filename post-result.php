@@ -11,7 +11,7 @@ include "view-header.php";
     echo $_POST['my-name'];
   } else {
     ?>
-    <p>Nothing posted to the page</p>
+    <p>Nothing posted to the page.</p>
     <?php
   }
   include "view-footer.php";
