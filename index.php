@@ -1,8 +1,8 @@
-<?PHP
-$pageTitle = "Home"
+<?php
+$pageTitle = "Home";
 include "view-header.php";
 ?>
     <h1>Home</h1>
-  <?PHP
+  <?php
   include "view-footer.php";
 ?>
